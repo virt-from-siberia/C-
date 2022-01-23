@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace CSarpCourse
 {
@@ -6,7 +7,21 @@ namespace CSarpCourse
     {
         static void Main(string[] args)
         {
-            string nameConcat = string.Concat("My ","name ", "is ", "Aleksey ");
+
+            StringBuilder sb = new StringBuilder();
+            sb.Append("My ");
+            sb.Append("name ");
+            sb.Append("is Aleksey ");
+            sb.AppendLine("!");
+            sb.Append("Hello");
+
+            string str = sb.ToString();
+            Console.WriteLine(str);
+
+        }
+
+        static void StringModification() {
+            string nameConcat = string.Concat("My ", "name ", "is ", "Aleksey ");
             Console.WriteLine(nameConcat);
 
             nameConcat = string.Join(" ", "My", "name", "is", "Alex");
@@ -29,7 +44,16 @@ namespace CSarpCourse
             char[] chars = nameConcat.ToCharArray();
             Console.WriteLine(chars[0]);
 
+            string lower = nameConcat.ToLower();
+            Console.WriteLine(lower);
+
+            string upper = nameConcat.ToUpper();
+            Console.WriteLine(upper);
+
+            string trimmed = nameConcat.Trim();
+            Console.WriteLine(trimmed);
         }
+
         static void StringEmpinees()
         {
             string strEmpty = string.Empty;
