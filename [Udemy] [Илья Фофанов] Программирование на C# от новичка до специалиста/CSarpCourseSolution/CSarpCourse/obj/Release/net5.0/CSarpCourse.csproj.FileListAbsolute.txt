@@ -1,0 +1,16 @@
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\CSarpCourseSolution\CSarpCourse\bin\Release\net5.0\CSarpCourse.exe
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\CSarpCourseSolution\CSarpCourse\bin\Release\net5.0\CSarpCourse.deps.json
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\CSarpCourseSolution\CSarpCourse\bin\Release\net5.0\CSarpCourse.runtimeconfig.json
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\CSarpCourseSolution\CSarpCourse\bin\Release\net5.0\CSarpCourse.runtimeconfig.dev.json
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\CSarpCourseSolution\CSarpCourse\bin\Release\net5.0\CSarpCourse.dll
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\CSarpCourseSolution\CSarpCourse\bin\Release\net5.0\ref\CSarpCourse.dll
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\CSarpCourseSolution\CSarpCourse\bin\Release\net5.0\CSarpCourse.pdb
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\CSarpCourseSolution\CSarpCourse\obj\Release\net5.0\CSarpCourse.csproj.AssemblyReference.cache
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\CSarpCourseSolution\CSarpCourse\obj\Release\net5.0\CSarpCourse.GeneratedMSBuildEditorConfig.editorconfig
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\CSarpCourseSolution\CSarpCourse\obj\Release\net5.0\CSarpCourse.AssemblyInfoInputs.cache
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\CSarpCourseSolution\CSarpCourse\obj\Release\net5.0\CSarpCourse.AssemblyInfo.cs
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\CSarpCourseSolution\CSarpCourse\obj\Release\net5.0\CSarpCourse.csproj.CoreCompileInputs.cache
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\CSarpCourseSolution\CSarpCourse\obj\Release\net5.0\CSarpCourse.dll
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\CSarpCourseSolution\CSarpCourse\obj\Release\net5.0\ref\CSarpCourse.dll
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\CSarpCourseSolution\CSarpCourse\obj\Release\net5.0\CSarpCourse.pdb
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\CSarpCourseSolution\CSarpCourse\obj\Release\net5.0\CSarpCourse.genruntimeconfig.cache
