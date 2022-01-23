@@ -11,3 +11,17 @@ C:\Users\alons\OneDrive\Рабочий стол\Programming\C#\[OTUS] С#\lesson
 C:\Users\alons\OneDrive\Рабочий стол\Programming\C#\[OTUS] С#\lesson3\Tetris\Tetris\obj\Debug\netcoreapp3.1\Tetris.dll
 C:\Users\alons\OneDrive\Рабочий стол\Programming\C#\[OTUS] С#\lesson3\Tetris\Tetris\obj\Debug\netcoreapp3.1\Tetris.pdb
 C:\Users\alons\OneDrive\Рабочий стол\Programming\C#\[OTUS] С#\lesson3\Tetris\Tetris\obj\Debug\netcoreapp3.1\Tetris.genruntimeconfig.cache
+E:\GIT\learnung C#\[OTUS] С#\lesson3\Tetris\Tetris\bin\Debug\netcoreapp3.1\Tetris.exe
+E:\GIT\learnung C#\[OTUS] С#\lesson3\Tetris\Tetris\bin\Debug\netcoreapp3.1\Tetris.deps.json
+E:\GIT\learnung C#\[OTUS] С#\lesson3\Tetris\Tetris\bin\Debug\netcoreapp3.1\Tetris.runtimeconfig.json
+E:\GIT\learnung C#\[OTUS] С#\lesson3\Tetris\Tetris\bin\Debug\netcoreapp3.1\Tetris.runtimeconfig.dev.json
+E:\GIT\learnung C#\[OTUS] С#\lesson3\Tetris\Tetris\bin\Debug\netcoreapp3.1\Tetris.dll
+E:\GIT\learnung C#\[OTUS] С#\lesson3\Tetris\Tetris\bin\Debug\netcoreapp3.1\Tetris.pdb
+E:\GIT\learnung C#\[OTUS] С#\lesson3\Tetris\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.AssemblyReference.cache
+E:\GIT\learnung C#\[OTUS] С#\lesson3\Tetris\Tetris\obj\Debug\netcoreapp3.1\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+E:\GIT\learnung C#\[OTUS] С#\lesson3\Tetris\Tetris\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfoInputs.cache
+E:\GIT\learnung C#\[OTUS] С#\lesson3\Tetris\Tetris\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfo.cs
+E:\GIT\learnung C#\[OTUS] С#\lesson3\Tetris\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.CoreCompileInputs.cache
+E:\GIT\learnung C#\[OTUS] С#\lesson3\Tetris\Tetris\obj\Debug\netcoreapp3.1\Tetris.dll
+E:\GIT\learnung C#\[OTUS] С#\lesson3\Tetris\Tetris\obj\Debug\netcoreapp3.1\Tetris.pdb
+E:\GIT\learnung C#\[OTUS] С#\lesson3\Tetris\Tetris\obj\Debug\netcoreapp3.1\Tetris.genruntimeconfig.cache

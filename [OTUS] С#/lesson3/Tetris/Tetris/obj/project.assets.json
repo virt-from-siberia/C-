@@ -8,23 +8,26 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\alons\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\aleksey\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alons\\OneDrive\\Рабочий стол\\Programming\\C#\\[OTUS] С#\\lesson3\\Tetris\\Tetris\\Tetris.csproj",
+      "projectUniqueName": "E:\\GIT\\learnung C#\\[OTUS] С#\\lesson3\\Tetris\\Tetris\\Tetris.csproj",
       "projectName": "Tetris",
-      "projectPath": "C:\\Users\\alons\\OneDrive\\Рабочий стол\\Programming\\C#\\[OTUS] С#\\lesson3\\Tetris\\Tetris\\Tetris.csproj",
-      "packagesPath": "C:\\Users\\alons\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alons\\OneDrive\\Рабочий стол\\Programming\\C#\\[OTUS] С#\\lesson3\\Tetris\\Tetris\\obj\\",
+      "projectPath": "E:\\GIT\\learnung C#\\[OTUS] С#\\lesson3\\Tetris\\Tetris\\Tetris.csproj",
+      "packagesPath": "C:\\Users\\aleksey\\.nuget\\packages\\",
+      "outputPath": "E:\\GIT\\learnung C#\\[OTUS] С#\\lesson3\\Tetris\\Tetris\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\alons\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\aleksey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -65,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
