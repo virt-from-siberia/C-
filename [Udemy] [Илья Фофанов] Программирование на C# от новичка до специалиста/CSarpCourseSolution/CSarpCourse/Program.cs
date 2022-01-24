@@ -7,10 +7,69 @@ namespace CSarpCourse
     {
         static void Main(string[] args)
         {
+      
+        }
+
+        static void HomeWork_02()
+        {
+            Console.WriteLine("lets calculate the  squire of a triangle");
+
+            Console.WriteLine("enter the length of side A and B :");
+            double ab = double.Parse(Console.ReadLine());
+
+            Console.WriteLine("enter the length of side B and C :");
+            double bc = double.Parse(Console.ReadLine());
+
+            Console.WriteLine("enter the length of side A and C :");
+            double ac = double.Parse(Console.ReadLine());
+        }
+
+        static void HomeWork_01()
+        {
+            Console.WriteLine("what is your name");
+            string name = Console.ReadLine();
+
+            Console.WriteLine("enter number 1");
+            string num1 = Console.ReadLine();
+            Console.WriteLine("enter number 2");
+            string num2 = Console.ReadLine();
+
+
+            int.Parse(num1);
+            int.Parse(num2);
+
+            Console.WriteLine($"name : {name}");
+            Console.WriteLine($"num1 : {num1}");
+            Console.WriteLine($"num2 : {num2}");
+
+            Console.WriteLine("enter long number");
+            string longNum = Console.ReadLine();
+
+            Console.WriteLine(longNum.Length);
+        }
+
+        static void Date()
+        {
+            DateTime now = DateTime.Now;
+            Console.WriteLine(now.ToString());
+
+            Console.WriteLine($"it is {now.Date}, {now.Hour} : {now.Minute}");
+
+            DateTime dt = new DateTime(1985, 02, 10);
+            DateTime newDt = dt.AddDays(1);
+
+            Console.WriteLine(newDt);
+
+            TimeSpan ts = now - dt;
+            Console.WriteLine(ts.Days);
+        }
+
+        static void ItoArrays()
+        {
             int[] a1;
             a1 = new int[10];
             int[] a2 = new int[5];
-            int[] a3 = new int[5] {1, 3, -2, 510 , 8};
+            int[] a3 = new int[5] { 1, 3, -2, 510, 8 };
             int[] a4 = { 1, 3, 4, 55, 6, 7 };
             Console.WriteLine(a4[0]);
 
