@@ -7,11 +7,48 @@ namespace CSarpCourse
     {
         static void Main(string[] args)
         {
+            int[] a1;
+            a1 = new int[10];
+            int[] a2 = new int[5];
+            int[] a3 = new int[5] {1, 3, -2, 510 , 8};
+            int[] a4 = { 1, 3, 4, 55, 6, 7 };
+            Console.WriteLine(a4[0]);
+
+            a4[0] = 777;
+            Console.WriteLine(a4[0]);
+            Console.WriteLine(a4.Length);
+        }
+
+        static void MathDemo()
+        {
+            Console.WriteLine(Math.Pow(2, 3));
+            Console.WriteLine(Math.Sqrt(9));
+            Console.WriteLine(Math.Round(1.7));
+            Console.WriteLine(Math.Round(1.4));
+            Console.WriteLine(Math.Round(1.5));
+
+            Console.WriteLine();
+            Console.WriteLine(Math.Round(2.5));
+            Console.WriteLine(Math.Round(2.5, MidpointRounding.AwayFromZero));
+            Console.WriteLine(Math.Round(2.5, MidpointRounding.ToEven));
+        }
+
+        static void Comments()
+        {
+            //a single comment
+            /*
+             * Multi-kine comment
+             * we can write here many words 
+             */
+        }
+
+        static void CastingAndParsing()
+        {
             byte b = 255;
 
             int i = b;
             long l = i;
-            float f = i; 
+            float f = i;
 
             b = (byte)i;
 
@@ -27,8 +64,8 @@ namespace CSarpCourse
 
             double resault2 = (double)x / 2;
             Console.WriteLine(resault2);
-
         }
+
         static void ConsoleBasics()
         {
             // Console.WriteLine("Hi please tell me your name");
