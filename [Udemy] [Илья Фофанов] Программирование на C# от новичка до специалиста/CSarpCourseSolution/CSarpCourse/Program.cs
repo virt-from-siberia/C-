@@ -7,7 +7,125 @@ namespace CSarpCourse
     {
         static void Main(string[] args)
         {
+            byte b = 255;
 
+            int i = b;
+            long l = i;
+            float f = i; 
+
+            b = (byte)i;
+
+            Console.WriteLine(b);
+
+            string str = "1";
+            int.Parse(str);
+            Console.WriteLine(str);
+
+            int x = 5;
+            int resault = x / 2;
+            Console.WriteLine(resault);
+
+            double resault2 = (double)x / 2;
+            Console.WriteLine(resault2);
+
+        }
+        static void ConsoleBasics()
+        {
+            // Console.WriteLine("Hi please tell me your name");
+
+            //string resault = Console.ReadLine();
+            // string sentence = $"your name is {resault}";
+            // Console.WriteLine(sentence);
+
+            Console.WriteLine("Hi please tell me your age");
+            string input = Console.ReadLine();
+            int age = int.Parse(input);
+            string sentence = $"your age is {age}";
+            Console.WriteLine(sentence);
+
+            Console.Clear();
+            Console.BackgroundColor = ConsoleColor.Cyan;
+            Console.ForegroundColor = ConsoleColor.Yellow;
+
+            Console.Write("New Style ");
+            Console.Write("New Style\n ");
+            Console.Clear();
+
+        }
+
+        static void ComparingSstrings()
+        {
+            string str1 = "abcee";
+            string str2 = "abcee";
+            bool equal = str1 == str2;
+            Console.WriteLine(equal);
+
+            equal = string.Equals(str1, str2, StringComparison.Ordinal);
+            Console.WriteLine(equal);
+
+            string st1 = "abcee";
+            string st2 = "abcee";
+            bool areEqual;
+
+            areEqual = string.Equals(st1, st2, StringComparison.Ordinal);
+            Console.WriteLine(areEqual);
+
+            areEqual = string.Equals(st1, st2, StringComparison.InvariantCulture);
+            Console.WriteLine(areEqual);
+
+            areEqual = string.Equals(st1, st2, StringComparison.CurrentCulture);
+            Console.WriteLine(areEqual);
+        }
+
+        static void StringFormat()
+        {
+            string name = "Aleksey";
+            int age = 36;
+            string str1 = string.Format("My name is {0} and I am {1}", name, age);
+            string str2 = $"My name is {name} and I am {age}";
+            Console.WriteLine(str1);
+            Console.WriteLine(str2);
+
+            string str3 = "My name is \n Aleksey";
+            string str4 = "I am \t 30";
+            Console.WriteLine(str3);
+            Console.WriteLine(str4);
+
+            str3 = $"My name is {Environment.NewLine} John";
+            Console.WriteLine(str3);
+
+            string str5 = "I am Aleksey and I am a \"good programmer\"";
+            Console.WriteLine(str5);
+
+            string str6 = "C:\\tmp\\test_file.txt";
+            Console.WriteLine(str6);
+
+            string str7 = @"C:\tmp\test_file.txt";
+            Console.WriteLine(str7);
+
+
+            int answer = 42;
+            string resault = string.Format("{0:d}", answer);
+            string resault2 = string.Format("{0:d4}", answer);
+            Console.WriteLine(resault);
+            Console.WriteLine(resault2);
+
+            string resault3 = string.Format("{0:f}", answer);
+            string resault4 = string.Format("{0:f4}", answer);
+            Console.WriteLine(resault3);
+            Console.WriteLine(resault4);
+
+            Console.OutputEncoding = Encoding.UTF8;
+
+            double money = 12.8;
+            string resaultNew1 = string.Format("{0:C}", money);
+            string resaultNew2 = string.Format("{0:C2}", money);
+            Console.WriteLine(resaultNew1);
+            Console.WriteLine(resaultNew2);
+        }
+
+        static void StringBuilder()
+        {
             StringBuilder sb = new StringBuilder();
             sb.Append("My ");
             sb.Append("name ");
@@ -18,7 +136,11 @@ namespace CSarpCourse
             string str = sb.ToString();
             Console.WriteLine(str);
 
-        }
+            double money = 12.7;
+            string interMoney = $"{money:C2}";
+            Console.WriteLine(interMoney);
+
+        }    
 
         static void StringModification() {
             string nameConcat = string.Concat("My ", "name ", "is ", "Aleksey ");
@@ -104,6 +226,7 @@ namespace CSarpCourse
 
             Console.WriteLine(subStr);
             Console.WriteLine(subStr2);
+            
         }
 
         static void StaticAndInstanceMembers()
