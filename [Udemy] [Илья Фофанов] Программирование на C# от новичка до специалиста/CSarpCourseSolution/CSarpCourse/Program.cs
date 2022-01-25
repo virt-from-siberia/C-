@@ -7,7 +7,20 @@ namespace CSarpCourse
     {
         static void Main(string[] args)
         {
-      
+            
+        }
+        static void HomeWork_3()
+        {
+            Console.WriteLine("Calculate index of weigh");
+
+            Console.WriteLine("enter your height");
+            double height = double.Parse(Console.ReadLine());
+
+            Console.WriteLine("enter your weight");
+            double weight = double.Parse(Console.ReadLine());
+
+            double resault = weight / (height * height);
+            Console.WriteLine($"Index of you weight = {resault}");
         }
 
         static void HomeWork_02()
@@ -22,6 +35,11 @@ namespace CSarpCourse
 
             Console.WriteLine("enter the length of side A and C :");
             double ac = double.Parse(Console.ReadLine());
+
+            double p = (ab + bc + ac) / 2;
+            double square = Math.Sqrt(p * (p - ab) * (p - bc) * (p - ac));
+            Console.WriteLine($"Square of triangle equals = {square} ");
+
         }
 
         static void HomeWork_01()

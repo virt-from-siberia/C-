@@ -1,0 +1,16 @@
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\CSarpCourseSolution\B_ControlFlow\obj\Debug\net5.0\B_ControlFlow.csproj.AssemblyReference.cache
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\CSarpCourseSolution\B_ControlFlow\obj\Debug\net5.0\B_ControlFlow.GeneratedMSBuildEditorConfig.editorconfig
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\CSarpCourseSolution\B_ControlFlow\obj\Debug\net5.0\B_ControlFlow.AssemblyInfoInputs.cache
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\CSarpCourseSolution\B_ControlFlow\obj\Debug\net5.0\B_ControlFlow.AssemblyInfo.cs
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\CSarpCourseSolution\B_ControlFlow\obj\Debug\net5.0\B_ControlFlow.csproj.CoreCompileInputs.cache
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\CSarpCourseSolution\B_ControlFlow\bin\Debug\net5.0\B_ControlFlow.exe
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\CSarpCourseSolution\B_ControlFlow\bin\Debug\net5.0\B_ControlFlow.deps.json
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\CSarpCourseSolution\B_ControlFlow\bin\Debug\net5.0\B_ControlFlow.runtimeconfig.json
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\CSarpCourseSolution\B_ControlFlow\bin\Debug\net5.0\B_ControlFlow.runtimeconfig.dev.json
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\CSarpCourseSolution\B_ControlFlow\bin\Debug\net5.0\B_ControlFlow.dll
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\CSarpCourseSolution\B_ControlFlow\bin\Debug\net5.0\ref\B_ControlFlow.dll
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\CSarpCourseSolution\B_ControlFlow\bin\Debug\net5.0\B_ControlFlow.pdb
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\CSarpCourseSolution\B_ControlFlow\obj\Debug\net5.0\B_ControlFlow.dll
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\CSarpCourseSolution\B_ControlFlow\obj\Debug\net5.0\ref\B_ControlFlow.dll
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\CSarpCourseSolution\B_ControlFlow\obj\Debug\net5.0\B_ControlFlow.pdb
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\CSarpCourseSolution\B_ControlFlow\obj\Debug\net5.0\B_ControlFlow.genruntimeconfig.cache

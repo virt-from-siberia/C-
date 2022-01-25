@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GIT\\learnung C#\\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\\CSarpCourseSolution\\CSarpCourse\\A_CSarpCourse.csproj",
-      "projectName": "A_CSarpCourse",
-      "projectPath": "E:\\GIT\\learnung C#\\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\\CSarpCourseSolution\\CSarpCourse\\A_CSarpCourse.csproj",
+      "projectUniqueName": "E:\\GIT\\learnung C#\\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\\CSarpCourseSolution\\B_ControlFlow\\B_ControlFlow.csproj",
+      "projectName": "B_ControlFlow",
+      "projectPath": "E:\\GIT\\learnung C#\\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\\CSarpCourseSolution\\B_ControlFlow\\B_ControlFlow.csproj",
       "packagesPath": "C:\\Users\\aleksey\\.nuget\\packages\\",
-      "outputPath": "E:\\GIT\\learnung C#\\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\\CSarpCourseSolution\\CSarpCourse\\obj\\",
+      "outputPath": "E:\\GIT\\learnung C#\\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\\CSarpCourseSolution\\B_ControlFlow\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
