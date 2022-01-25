@@ -6,7 +6,54 @@ namespace B_ControlFlow
     {
         static void Main(string[] args)
         {
- 
+       
+        }
+
+        static void Switch()
+        {
+            int widdingYear = int.Parse(Console.ReadLine());
+
+            string name = string.Empty;
+
+            switch (widdingYear)
+            {
+                case 5:
+                    name = "Деревянная свадьба";
+                    break;
+                case 10:
+                    name = "Оловянная свадьба";
+                    break;
+                case 15:
+                    name = "Хрустальная свадьба";
+                    break;
+                case 25:
+                    name = "Фарфоравая свадьба";
+                    break;
+                case 35:
+                    name = "Жемчужная свадьба";
+                    break;
+                default:
+                    break;
+            }
+
+            Console.WriteLine(name);
+        }
+
+        static void DoWhile() {
+            int age = 30;
+
+            while (age < 18)
+            {
+                Console.WriteLine("What is you age ?");
+                age = int.Parse(Console.ReadLine());
+            }
+
+            do
+            {
+                Console.WriteLine("What is you age ?");
+                age = int.Parse(Console.ReadLine());
+            }
+            while (age < 18);
         }
 
         static void NestedFor()
