@@ -1,0 +1,3 @@
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\SCharpCource\bin\Release\net472\publish\SCharpCource.exe
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\SCharpCource\bin\Release\net472\publish\SCharpCource.exe.config
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\SCharpCource\bin\Release\net472\publish\SCharpCource.pdb

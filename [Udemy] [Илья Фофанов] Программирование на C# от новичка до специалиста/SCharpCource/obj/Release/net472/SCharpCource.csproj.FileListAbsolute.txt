@@ -1,0 +1,10 @@
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\SCharpCource\bin\Release\net472\SCharpCource.exe.config
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\SCharpCource\bin\Release\net472\SCharpCource.exe
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\SCharpCource\bin\Release\net472\SCharpCource.pdb
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\SCharpCource\obj\Release\net472\SCharpCource.csproj.AssemblyReference.cache
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\SCharpCource\obj\Release\net472\SCharpCource.GeneratedMSBuildEditorConfig.editorconfig
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\SCharpCource\obj\Release\net472\SCharpCource.AssemblyInfoInputs.cache
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\SCharpCource\obj\Release\net472\SCharpCource.AssemblyInfo.cs
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\SCharpCource\obj\Release\net472\SCharpCource.csproj.CoreCompileInputs.cache
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\SCharpCource\obj\Release\net472\SCharpCource.exe
+E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\SCharpCource\obj\Release\net472\SCharpCource.pdb
