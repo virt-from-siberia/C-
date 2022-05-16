@@ -27,10 +27,8 @@
       <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net472/SCharpCource.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net472/SCharpCource.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net472/SCharpCource.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net472/SCharpCource.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net472/SCharpCource.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net472/SCharpCource.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net472/SCharpCource.exe" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net472/SCharpCource.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net472/SCharpCource.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net472/SCharpCource.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TICKET.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TICKET.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,23 +39,27 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/52/061405b4/Void.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Code/CSharpCourseSolution/D_OOP/Interfaces.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/c7/c5799d79/ArrayList.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Code/CSharpCourseSolution/D_OOP/Shapes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/ce/f56ca97e/CultureInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/e1/78e39e6a/Console.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/7e/56f2fcec/02000463.il" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/95/13546431/CultureData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/9c/f0f5afd8/String.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/88/30760af5/Environment.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Code/CSharpCourseSolution/D_OOP/Program.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/7e/56f2fcec/02000463.il" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/74/99c494a0/Object.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Code/CSharpCourseSolution/D_OOP/Inheritance.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/77/5c2a24fc/Int32.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Code/CSharpCourseSolution/D_OOP/MyStack.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/9c/f0f5afd8/String.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Program.cs" />
         <option value="$PROJECT_DIR$/../TICKET.txt" />
+        <option value="$PROJECT_DIR$/Program.cs" />
       </list>
     </option>
   </component>
@@ -121,7 +123,7 @@
       <workItem from="1652599643162" duration="1628000" />
       <workItem from="1652601312009" duration="44000" />
       <workItem from="1652601372563" duration="4316000" />
-      <workItem from="1652627964961" duration="5847000" />
+      <workItem from="1652627964961" duration="14624000" />
     </task>
     <servers />
   </component>
@@ -146,22 +148,22 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="374" height="892" key="GridCell.Tab.0.bottom" timestamp="1652637828691">
+    <state width="571" height="892" key="GridCell.Tab.0.bottom" timestamp="1652721072269">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="374" height="892" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1652637828691" />
-    <state width="374" height="892" key="GridCell.Tab.0.center" timestamp="1652637828691">
+    <state width="571" height="892" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1652721072269" />
+    <state width="571" height="892" key="GridCell.Tab.0.center" timestamp="1652721072268">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="374" height="892" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1652637828691" />
-    <state width="374" height="892" key="GridCell.Tab.0.left" timestamp="1652637828691">
+    <state width="571" height="892" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1652721072268" />
+    <state width="571" height="892" key="GridCell.Tab.0.left" timestamp="1652721072268">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="374" height="892" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1652637828691" />
-    <state width="374" height="892" key="GridCell.Tab.0.right" timestamp="1652637828691">
+    <state width="571" height="892" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1652721072268" />
+    <state width="571" height="892" key="GridCell.Tab.0.right" timestamp="1652721072269">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="374" height="892" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1652637828691" />
+    <state width="571" height="892" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1652721072269" />
     <state width="1877" height="317" key="GridCell.Tab.1.bottom" timestamp="1652428302875">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -226,10 +228,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="317" key="GridCell.Tab.4.right/0.0.1920.1040@0.0.1920.1040" timestamp="1652428302875" />
-    <state x="396" y="164" width="1223" height="788" key="SettingsEditor" timestamp="1652629498745">
+    <state x="396" y="164" width="1223" height="788" key="SettingsEditor" timestamp="1652720311435">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="396" y="164" width="1223" height="788" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1652629498745" />
+    <state x="396" y="164" width="1223" height="788" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1652720311435" />
     <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog" timestamp="1652442520037">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

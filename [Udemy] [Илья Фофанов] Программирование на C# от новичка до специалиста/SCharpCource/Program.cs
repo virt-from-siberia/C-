@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Text;
 
 
@@ -13,13 +14,122 @@ namespace SCharpCource
             //Literals()
             //VariablesScopes()
             //OverflowException()
-            //Static()
+            //Static() 
             //QueryString()
             //StringEmptiness()
             //StringModification()
             //StringForm()
             //StringFormat()
+            //CompiringString()
+            //ConsoleBasics()
+            //CastingAndParsing()
+            //Arrays();
+            //DateTimeWork();
+        }
 
+        static void DateTimeWork()
+        {
+            DateTime now = DateTime.Now;
+            Console.WriteLine(now.ToString());
+            Console.WriteLine($"It is {now.Date}, {now.Hour}, {now.Minute}, {now.Second}");
+            
+            DateTime dt = new DateTime(2016, 2,28);
+            DateTime newDt = dt.AddDays(1);
+            Console.WriteLine(newDt);
+            
+            string s = "2011-03-21 13:26";
+
+            DateTime parsedDt =
+                DateTime.ParseExact(s, "yyyy-MM-dd HH:mm", CultureInfo.InvariantCulture);
+            Console.WriteLine(parsedDt);
+
+            TimeSpan ts = now - dt;
+            Console.WriteLine($"TimeSpan {ts.TotalSeconds}");
+            
+            DateTime nowSate = DateTime.Now;
+            DateTime futured = nowSate.AddSeconds(10);
+            TimeSpan newTs = nowSate - futured;
+            Console.WriteLine(newTs.TotalSeconds);
+
+        }
+        static void Arrays()
+        {
+            int[] a1;
+            a1 = new int[10];
+            Console.WriteLine(a1[6]);
+
+            int[] a2 = new int[5];
+            int[] a3 = new int[5]{1, 3, -2, 5, 10};
+            int[] a4 = {1, 3, 4, 56, 3, 4, 34, 6, 46, 564};
+            Console.WriteLine(a4[0]);
+            
+            int number = a4[4];
+            Console.WriteLine(number);
+            Console.WriteLine(a4.Length);
+            Console.WriteLine(a4[a4.Length - 1]);
+
+            string s1 = "asdasdad";
+            char c1 = s1[1];
+            char last = s1[s1.Length - 1];
+
+            Console.WriteLine(c1);
+            Console.WriteLine(last);
+
+
+        }
+        static void CastingAndParsing()
+        {
+            byte b = 3;
+            int i = b;
+            long l = b;
+
+            float f = i;
+            Console.WriteLine(f);
+            
+            b = (byte)i;
+            Console.WriteLine(b);
+
+            i = (int)f;
+            Console.WriteLine(i);
+
+            double f1 = 3.1;
+            int fc = (int)f1;
+            Console.WriteLine(fc);
+
+            string str = "1";
+            int.Parse(str);
+            Console.WriteLine(str);
+
+            int x = 5;
+            int y = x / 2;
+            Console.WriteLine(y);
+
+            double result2 = (double)x / 2;
+            Console.WriteLine(result2);
+        }
+        static void ConsoleBasics()
+        {
+            Console.WriteLine("Hi tell me please your name");
+            string name = Console.ReadLine();
+            string sentence = $"your name is {name}";
+            Console.WriteLine(sentence);
+            
+            
+            Console.WriteLine("Hi tell me please your age");
+            string input = Console.ReadLine();
+            int age = int.Parse(input);
+            string sentenceWithAge = $"your name is {name}, and you age is {age}";
+            Console.WriteLine(sentenceWithAge);
+            
+            Console.Clear();
+            Console.BackgroundColor = ConsoleColor.Cyan;
+            Console.ForegroundColor = ConsoleColor.DarkMagenta;
+            Console.Write("New Style");
+            Console.Write("New Style\n");
+
+        }
+        static void CompiringString()
+        {
             string str1 = "abcde";
             string str2 = "abcde";
 
@@ -31,7 +141,6 @@ namespace SCharpCource
             string s1 = "Stresse";
             string s2 = "Stresse2";
         }
-
         static void StringFormat()
         {
             double answer = 42.8;
@@ -60,7 +169,6 @@ namespace SCharpCource
             var result5 = $"{money:C2}";
             Console.WriteLine(result5);
         }
-
         static void StringForm()
         {
             StringBuilder sb = new StringBuilder();
@@ -95,7 +203,6 @@ namespace SCharpCource
             str3 = $"My name is {Environment.NewLine} Aleks !";
             Console.WriteLine(str3);
         }
-
         static void StringModification()
         {
             string nameConcat = string.Concat("My", "name", "is");
@@ -133,7 +240,6 @@ namespace SCharpCource
             string trim = " My name is Aleksey  ";
             Console.WriteLine(trim.Trim());
         }
-
         static void StringEmptiness()
         {
             string str = string.Empty;
@@ -170,7 +276,6 @@ namespace SCharpCource
 
             Console.WriteLine();
         }
-
         static void QueryString()
         {
             string name = "abracadabra";
@@ -200,7 +305,6 @@ namespace SCharpCource
             string substrFromTwo = name.Substring(0, 3);
             Console.WriteLine(substrFromTwo);
         }
-
         static void Static()
         {
             string name = "abracadabra";
@@ -220,7 +324,6 @@ namespace SCharpCource
             string xStr = x.ToString();
             Console.WriteLine(xStr);
         }
-
         static void OverflowException()
         {
             checked
@@ -233,7 +336,6 @@ namespace SCharpCource
                 Console.WriteLine(x);
             }
         }
-
         static void VariablesScopes()
         {
             var a = 1;
@@ -252,7 +354,6 @@ namespace SCharpCource
                 Console.WriteLine(b);
             }
         }
-
         static void Literals()
         {
             int x = 0b11;
@@ -276,7 +377,6 @@ namespace SCharpCource
             Console.WriteLine('\u0420');
             Console.WriteLine('\u0421');
         }
-
         static void Variables()
         {
             int x = 5;
