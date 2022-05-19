@@ -25,8 +25,51 @@ namespace SCharpCource
             //CastingAndParsing()
             //Arrays();
             //DateTimeWork();
+            //DZ_01();
+            //DZ_02();
+            
         }
+        static void DZ_02()
+        {
+            Console.WriteLine("Lets calculate the square of a triangle");
+            
+            Console.WriteLine("Enter the length of side AB");
+            double ab = double.Parse(Console.ReadLine());
+            
+            Console.WriteLine("Enter the length of side BC");
+            double bc = double.Parse(Console.ReadLine());
+            
+            Console.WriteLine("Enter the length of side AC");
+            double ac = double.Parse(Console.ReadLine());
+            
+            double p = (ab + bc + ac) / 2;
+            double square = Math.Sqrt(p * (p - ab) * (p - bc) * (p - ac));
+            Console.WriteLine($"Square of teh triangles = {square}");
 
+        }
+        static void DZ_01()
+        {
+            Console.WriteLine("enter your name ");
+            string name = Console.ReadLine();
+            string sentence = $"your name is {name}";
+            Console.WriteLine(sentence);
+            
+            Console.WriteLine("enter first number ");
+            string number1 = Console.ReadLine();
+            
+            Console.WriteLine("enter second number ");
+            string number2 = Console.ReadLine();
+            
+            int number1Int = int.Parse(number1);
+            int number2Int = int.Parse(number2);
+            Console.WriteLine($"first number is {number1Int} and second number is {number2Int}");
+            
+            Console.WriteLine("enter random number ");
+            string randomNumber = Console.ReadLine();
+            Console.WriteLine($"count of random number is {randomNumber.Length}");
+            
+            
+        }
         static void DateTimeWork()
         {
             DateTime now = DateTime.Now;
