@@ -54,7 +54,7 @@ namespace SCharpCource
             string sentence = $"your name is {name}";
             Console.WriteLine(sentence);
             
-            Console.WriteLine("enter first number ");
+            Console.WriteLine("enter first number");
             string number1 = Console.ReadLine();
             
             Console.WriteLine("enter second number ");

@@ -15,10 +15,52 @@ namespace ControlFlow
             //Loops();
             //Debug();
             //DZ_05();
-            DZ_06();
-
+            //DZ_06();
+            //Factorial();
+            //DZ_07();
         }
 
+        static void DZ_07()
+        {
+            string password = "qwerty";
+            string login = "aleksey";
+            int tries = 1; 
+            
+            while (tries <= 3)
+            {
+                Console.WriteLine("enter the login");  
+                string  userLogin =  Console.ReadLine();
+                
+                Console.WriteLine("enter the password"); 
+                string  userPassword =  Console.ReadLine();
+
+                if (userLogin == login && userPassword == password)
+                {
+                    Console.WriteLine("Enter the system");
+                    break;
+                }
+                tries++;
+            }
+            if (tries == 4)
+            {
+                Console.WriteLine("You exceeded the number of available tries"); 
+            }
+            
+
+        }
+        static void Factorial()
+        {
+            Console.WriteLine("Enter n >= 0");  
+            int n = int.Parse(Console.ReadLine());
+
+            long factorial = 1;
+            for (int i = 1; i < n; i++)
+            {
+                factorial *= i;
+            }
+
+            Console.WriteLine(factorial);
+        }
         static void DZ_06()
         {
             
@@ -53,7 +95,6 @@ namespace ControlFlow
             Console.WriteLine($"average :{average}");
 
         }
-
         static void DZ_05()
         {
             Console.WriteLine("Enter the numbers for fibanachi");
@@ -81,7 +122,6 @@ namespace ControlFlow
             }
 
         }
-
         static void Debug() 
         {
             Console.WriteLine("Lets calculate the square of a triangle");
@@ -103,7 +143,6 @@ namespace ControlFlow
         {
             return double.Parse(Console.ReadLine()); 
         }
-
         static void Loops()
         {
             int[] numbers = {1, 2, 4, 5, 6, 8, 9};
@@ -113,7 +152,6 @@ namespace ControlFlow
                 Console.WriteLine(numbers[i]);
             }
         }
-
         static void DZ_4()
         {
             int a = int.Parse(Console.ReadLine());
