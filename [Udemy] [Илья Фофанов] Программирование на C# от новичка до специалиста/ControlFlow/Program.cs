@@ -28,8 +28,8 @@ namespace ControlFlow
             
             while (tries <= 3)
             {
-                Console.WriteLine("enter the login");  
-                string  userLogin =  Console.ReadLine();
+                Console.WriteLine("enter the login");
+                string userLogin = Console.ReadLine();
                 
                 Console.WriteLine("enter the password"); 
                 string  userPassword =  Console.ReadLine();

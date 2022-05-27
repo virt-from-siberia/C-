@@ -31,20 +31,22 @@
       <change beforePath="$PROJECT_DIR$/../.vs/[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../.vs/[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста/v16/.suo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.vs/slnx.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/../.vs/slnx.sqlite" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ControlFlow/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ControlFlow/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ControlFlow/bin/Debug/ControlFlow.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../ControlFlow/bin/Debug/ControlFlow.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ControlFlow/bin/Debug/ControlFlow.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ControlFlow/bin/Debug/ControlFlow.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ControlFlow/obj/Debug/ControlFlow.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ControlFlow/obj/Debug/ControlFlow.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ControlFlow/obj/Debug/ControlFlow.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../ControlFlow/obj/Debug/ControlFlow.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ControlFlow/obj/Debug/ControlFlow.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ControlFlow/obj/Debug/ControlFlow.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Calculator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/Calculator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Charachter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/Charachter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/bin/Debug/net5.0/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/bin/Debug/net5.0/OOP.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/bin/Debug/net5.0/OOP.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/bin/Debug/net5.0/OOP.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/bin/Debug/net5.0/ref/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/bin/Debug/net5.0/ref/OOP.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/OOP.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/OOP.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/OOP.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/OOP.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/OOP.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/ref/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/ref/OOP.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SCharpCource/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SCharpCource/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SCharpCource/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SCharpCource/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/SCharpCource/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/SCharpCource/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/SCharpCource/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/SCharpCource/v16/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SCharpCource.sln" beforeDir="false" afterPath="$PROJECT_DIR$/SCharpCource.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SCharpCource.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/SCharpCource.sln.DotSettings.user" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net472/SCharpCource.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net472/SCharpCource.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Release/net472/SCharpCource.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Release/net472/SCharpCource.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TICKET.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TICKET.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,9 +66,11 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/bf/3738e9b8/Number.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/e1/78e39e6a/Console.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0741D33D-D3FC-47C2-A0E8-74E1810361AF/7D/Double.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0741D33D-D3FC-47C2-A0E8-74E1810361AF/6C/Boolean.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/f2/a0c120e0/KeyValuePair`2.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0741D33D-D3FC-47C2-A0E8-74E1810361AF/412/Dictionary.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0741D33D-D3FC-47C2-A0E8-74E1810361AF/B0/NotImplementedException.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0741D33D-D3FC-47C2-A0E8-74E1810361AF/0/NumberStyles.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/4a/7943af60/List`1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/98/9940a969/MethodImplOptions.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/78/07ee91a7/LayoutKind.cs" root0="SKIP_HIGHLIGHTING" />
@@ -99,6 +103,7 @@
     <setting file="file://$PROJECT_DIR$/../Code/CSharpCourseSolution/D_OOP/Inheritance.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Code/CSharpCourseSolution/D_OOP/MyStack.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Code/CSharpCourseSolution/D_OOP/Calculator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0741D33D-D3FC-47C2-A0E8-74E1810361AF/bf/c1feb1bd/IFormatProvider.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -110,11 +115,13 @@
         <option value="$PROJECT_DIR$/Arrays/Program.cs" />
         <option value="$PROJECT_DIR$/OOP/Character.cs" />
         <option value="$PROJECT_DIR$/OOP/Program.cs" />
-        <option value="$PROJECT_DIR$/../OOP/Charachter.cs" />
         <option value="$PROJECT_DIR$/Program.cs" />
         <option value="$PROJECT_DIR$/../OOP/RomanNumeral.cs" />
+        <option value="$PROJECT_DIR$/../OOP/StaticWord.cs" />
         <option value="$PROJECT_DIR$/../OOP/Calculator.cs" />
+        <option value="$PROJECT_DIR$/../OOP/VarRefTypes.cs" />
         <option value="$PROJECT_DIR$/../OOP/Program.cs" />
+        <option value="$PROJECT_DIR$/../OOP/Charachter.cs" />
       </list>
     </option>
   </component>
@@ -295,7 +302,8 @@
       <workItem from="1652901634080" duration="7726000" />
       <workItem from="1653065025658" duration="31000" />
       <workItem from="1653065310055" duration="12624000" />
-      <workItem from="1653413238784" duration="23537000" />
+      <workItem from="1653413238784" duration="33909000" />
+      <workItem from="1653668879161" duration="5809000" />
     </task>
     <servers />
   </component>
@@ -320,26 +328,26 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="825" y="242" key="FileChooserDialogImpl" timestamp="1653549837286">
+    <state x="825" y="242" key="FileChooserDialogImpl" timestamp="1653669325519">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="825" y="242" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1653549837286" />
-    <state width="375" height="892" key="GridCell.Tab.0.bottom" timestamp="1653582787489">
+    <state x="825" y="242" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1653669325519" />
+    <state width="490" height="892" key="GridCell.Tab.0.bottom" timestamp="1653673670219">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="375" height="892" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1653582787489" />
-    <state width="375" height="892" key="GridCell.Tab.0.center" timestamp="1653582787489">
+    <state width="490" height="892" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1653673670219" />
+    <state width="490" height="892" key="GridCell.Tab.0.center" timestamp="1653673670219">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="375" height="892" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1653582787489" />
-    <state width="375" height="892" key="GridCell.Tab.0.left" timestamp="1653582787489">
+    <state width="490" height="892" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1653673670219" />
+    <state width="490" height="892" key="GridCell.Tab.0.left" timestamp="1653673670219">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="375" height="892" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1653582787489" />
-    <state width="375" height="892" key="GridCell.Tab.0.right" timestamp="1653582787489">
+    <state width="490" height="892" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1653673670219" />
+    <state width="490" height="892" key="GridCell.Tab.0.right" timestamp="1653673670219">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="375" height="892" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1653582787489" />
+    <state width="490" height="892" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1653673670219" />
     <state width="1877" height="340" key="GridCell.Tab.1.bottom" timestamp="1653064974114">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -408,10 +416,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="251" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1653550276610" />
-    <state x="405" y="169" width="918" height="857" key="SettingsEditor" timestamp="1653581943612">
+    <state x="153" y="142" width="918" height="857" key="SettingsEditor" timestamp="1653674695146">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="405" y="169" width="918" height="857" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1653581943612" />
+    <state x="153" y="142" width="918" height="857" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1653674695146" />
     <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog" timestamp="1652442520037">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
