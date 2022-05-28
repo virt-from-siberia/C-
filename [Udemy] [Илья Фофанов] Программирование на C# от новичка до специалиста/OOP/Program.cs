@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using Microsoft.VisualBasic;
 
 namespace OOP
 {
@@ -12,10 +13,15 @@ namespace OOP
             //Arguments();
             //NullibleParticle();
             //Object();
-            Constructor();
+            //Constructor();
+            Constants();
 
         }
 
+        static void Constants()
+        {
+            
+        }
         static void Constructor()
         {
             Charachter c = new Charachter("Elf");
@@ -31,7 +37,7 @@ namespace OOP
             double pi = 3.14;
             object obj1 = pi;
             int number = (int)(double)obj1;
-        }
+        } 
         static void DoSomething(object obj)
         {
             bool isPointRef = obj is PointRef;

@@ -27,26 +27,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25faee5c-4045-4775-b10f-fef12f49bc8b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.vs/VSWorkspaceState.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.vs/VSWorkspaceState.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.vs/[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../.vs/[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста/v16/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.vs/slnx.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/../.vs/slnx.sqlite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ControlFlow/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ControlFlow/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ControlFlow/obj/Debug/ControlFlow.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ControlFlow/obj/Debug/ControlFlow.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP/Calculator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/Calculator.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OOP/Charachter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/Charachter.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OOP/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP/bin/Debug/net5.0/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/bin/Debug/net5.0/OOP.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP/bin/Debug/net5.0/OOP.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/bin/Debug/net5.0/OOP.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP/bin/Debug/net5.0/ref/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/bin/Debug/net5.0/ref/OOP.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/OOP.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/OOP.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/OOP.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/OOP.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/OOP.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/ref/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/ref/OOP.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SCharpCource/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SCharpCource/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SCharpCource/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SCharpCource/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/SCharpCource/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/SCharpCource/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/SCharpCource/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/SCharpCource/v16/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net472/SCharpCource.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net472/SCharpCource.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TICKET.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TICKET.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -304,6 +287,8 @@
       <workItem from="1653065310055" duration="12624000" />
       <workItem from="1653413238784" duration="33909000" />
       <workItem from="1653668879161" duration="5809000" />
+      <workItem from="1653724746150" duration="98000" />
+      <workItem from="1653724877034" duration="2310000" />
     </task>
     <servers />
   </component>
@@ -328,10 +313,10 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="825" y="242" key="FileChooserDialogImpl" timestamp="1653669325519">
+    <state x="825" y="242" key="FileChooserDialogImpl" timestamp="1653726548892">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="825" y="242" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1653669325519" />
+    <state x="825" y="242" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1653726548892" />
     <state width="490" height="892" key="GridCell.Tab.0.bottom" timestamp="1653673670219">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -416,10 +401,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="251" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1653550276610" />
-    <state x="153" y="142" width="918" height="857" key="SettingsEditor" timestamp="1653674695146">
+    <state x="153" y="142" width="918" height="857" key="SettingsEditor" timestamp="1653727332438">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="153" y="142" width="918" height="857" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1653674695146" />
+    <state x="153" y="142" width="918" height="857" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1653727332438" />
     <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog" timestamp="1652442520037">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

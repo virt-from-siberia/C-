@@ -2,7 +2,6 @@
 
 namespace OOP
 {
-
     public class Point2D
     {
         private int x;
@@ -12,12 +11,11 @@ namespace OOP
             this.x = x;
             this.y = y;
         }
-        
     }
     public class Charachter 
     {
-        private static int speed = 10;
-        public int PrintSpeed()
+        private readonly int speed;
+        public int PrintSpeed() 
         {
             /*Console.WriteLine($"speed = {speed}");*/
             return speed;
@@ -33,6 +31,12 @@ namespace OOP
         {
             Race = race;
             Armor = armor;
+        } 
+        public Charachter(string race, int armor, int speed)
+        {
+            Race = race;
+            Armor = armor;
+            this.speed = speed;
         }
        
         public void Hit(int demage)
