@@ -17,6 +17,9 @@
       <e p="bin" t="ExcludeRecursive" />
       <e p="Calculator.cs" t="Include" />
       <e p="Charachter.cs" t="Include" />
+      <e p="EvilEnheritance.cs" t="Include" />
+      <e p="Inheritence.cs" t="Include" />
+      <e p="Interfaces.cs" t="Include" />
       <e p="obj" t="ExcludeRecursive">
         <e p="Debug" t="Include">
           <e p="net5.0" t="Include">
@@ -27,6 +30,7 @@
       <e p="OOP.csproj" t="IncludeRecursive" />
       <e p="Program.cs" t="Include" />
       <e p="RomanNumeral.cs" t="Include" />
+      <e p="Shapes.cs" t="Include" />
       <e p="VarRefTypes.cs" t="Include" />
     </e>
     <e p="E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\SCharpCource" t="IncludeRecursive">

@@ -27,10 +27,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25faee5c-4045-4775-b10f-fef12f49bc8b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../OOP/Charachter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/Charachter.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OOP/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/bin/Debug/net5.0/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/bin/Debug/net5.0/OOP.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/bin/Debug/net5.0/OOP.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/bin/Debug/net5.0/OOP.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/bin/Debug/net5.0/ref/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/bin/Debug/net5.0/ref/OOP.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/OOP.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/OOP.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/OOP.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/OOP.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/OOP.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/ref/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/ref/OOP.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SCharpCource/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SCharpCource/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SCharpCource/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SCharpCource/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TICKET.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TICKET.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +90,7 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/74/99c494a0/Object.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/65/f8fa785f/Array.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Code/CSharpCourseSolution/D_OOP/Inheritance.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/0741D33D-D3FC-47C2-A0E8-74E1810361AF/fe/0d6fea87/02000156pdb.il" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Code/CSharpCourseSolution/D_OOP/MyStack.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Code/CSharpCourseSolution/D_OOP/Calculator.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0741D33D-D3FC-47C2-A0E8-74E1810361AF/bf/c1feb1bd/IFormatProvider.cs" root0="SKIP_HIGHLIGHTING" />
@@ -103,8 +110,12 @@
         <option value="$PROJECT_DIR$/../OOP/StaticWord.cs" />
         <option value="$PROJECT_DIR$/../OOP/Calculator.cs" />
         <option value="$PROJECT_DIR$/../OOP/VarRefTypes.cs" />
-        <option value="$PROJECT_DIR$/../OOP/Program.cs" />
         <option value="$PROJECT_DIR$/../OOP/Charachter.cs" />
+        <option value="$PROJECT_DIR$/../OOP/Inheritence.cs" />
+        <option value="$PROJECT_DIR$/../OOP/Shapes.cs" />
+        <option value="$PROJECT_DIR$/../OOP/Interfaces.cs" />
+        <option value="$PROJECT_DIR$/../OOP/EvilEnheritance.cs" />
+        <option value="$PROJECT_DIR$/../OOP/Program.cs" />
       </list>
     </option>
   </component>
@@ -289,6 +300,10 @@
       <workItem from="1653668879161" duration="5809000" />
       <workItem from="1653724746150" duration="98000" />
       <workItem from="1653724877034" duration="2310000" />
+      <workItem from="1654353527733" duration="7706000" />
+      <workItem from="1654401888272" duration="3618000" />
+      <workItem from="1654437287261" duration="5000" />
+      <workItem from="1654437319259" duration="2056000" />
     </task>
     <servers />
   </component>
@@ -313,26 +328,26 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="825" y="242" key="FileChooserDialogImpl" timestamp="1653726548892">
+    <state x="825" y="242" key="FileChooserDialogImpl" timestamp="1654402286172">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="825" y="242" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1653726548892" />
-    <state width="490" height="892" key="GridCell.Tab.0.bottom" timestamp="1653673670219">
+    <state x="825" y="242" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1654402286172" />
+    <state width="784" height="892" key="GridCell.Tab.0.bottom" timestamp="1654360810125">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="490" height="892" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1653673670219" />
-    <state width="490" height="892" key="GridCell.Tab.0.center" timestamp="1653673670219">
+    <state width="784" height="892" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1654360810125" />
+    <state width="784" height="892" key="GridCell.Tab.0.center" timestamp="1654360810125">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="490" height="892" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1653673670219" />
-    <state width="490" height="892" key="GridCell.Tab.0.left" timestamp="1653673670219">
+    <state width="784" height="892" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1654360810125" />
+    <state width="784" height="892" key="GridCell.Tab.0.left" timestamp="1654360810125">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="490" height="892" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1653673670219" />
-    <state width="490" height="892" key="GridCell.Tab.0.right" timestamp="1653673670219">
+    <state width="784" height="892" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1654360810125" />
+    <state width="784" height="892" key="GridCell.Tab.0.right" timestamp="1654360810125">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="490" height="892" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1653673670219" />
+    <state width="784" height="892" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1654360810125" />
     <state width="1877" height="340" key="GridCell.Tab.1.bottom" timestamp="1653064974114">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -401,10 +416,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="251" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1653550276610" />
-    <state x="153" y="142" width="918" height="857" key="SettingsEditor" timestamp="1653727332438">
+    <state x="794" y="153" key="RiderGenerateDialog" timestamp="1654402243511">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="153" y="142" width="918" height="857" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1653727332438" />
+    <state x="794" y="153" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1654402243511" />
+    <state x="153" y="142" width="918" height="857" key="SettingsEditor" timestamp="1654437822254">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="153" y="142" width="918" height="857" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1654437822254" />
     <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog" timestamp="1652442520037">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -413,9 +432,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="200" y="50" width="1213" height="1014" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1652902000097" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1653581461198">
+    <state x="616" y="240" key="run.anything.popup" timestamp="1654402619640">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1653581461198" />
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1654402619640" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1654461773686">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1654461773686" />
   </component>
 </project>

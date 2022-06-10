@@ -14,10 +14,50 @@ namespace OOP
             //NullibleParticle();
             //Object();
             //Constructor();
-            Constants();
-
+            //Constants();
+            //InheritanceExample();
+            //Abstract();
+            //Interfaces();
+            isA();
         }
 
+        static void isA()
+        {
+            Rect rect = new Rect{ Height = 0, Width = 5 };
+            int rectArea = AriaCalculator.CalcSquare(rect);
+            Console.WriteLine($"React aria = {rectArea}");
+
+            Rect square = new Square { Height = 2 };
+        }
+        static void Interfaces()
+        {
+            List<object> list = new List<object>(){1,2,3};
+            IBaseCollection collection = new BaseList(4);
+            collection.Add(list);
+            collection.Add(1);
+        }
+        static void Abstract() 
+        {
+            Shape[] shapes = new Shape[2];
+            shapes[0] = new Triangle(10, 20, 30);
+            shapes[1] = new Rectangle(5, 10);
+
+            foreach (Shape shape in shapes)
+            {
+                shape.Draw();
+                Console.WriteLine(shape.Perimeter());
+            }
+        }
+        static void InheritanceExample()
+        {
+            ModelXTerminal terminalX = new ModelXTerminal("123");
+            terminalX.Connect();
+            Console.ReadLine();
+        }
+        static void DoSomething()
+        {
+            
+        }
         static void Constants()
         {
             
