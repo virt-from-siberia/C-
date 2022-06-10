@@ -21,7 +21,7 @@
 
         public static int CalcSquare(Rect rect)
         {
-            rect.Width = rect.Height;
+           return rect.Width = rect.Height;
         }
     }
 }
