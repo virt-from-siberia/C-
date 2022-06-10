@@ -1,7 +1,0 @@
-E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\ControlFlow\bin\Debug\ControlFlow.exe.config
-E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\ControlFlow\bin\Debug\ControlFlow.exe
-E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\ControlFlow\bin\Debug\ControlFlow.pdb
-E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\ControlFlow\obj\Debug\ControlFlow.csproj.AssemblyReference.cache
-E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\ControlFlow\obj\Debug\ControlFlow.csproj.CoreCompileInputs.cache
-E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\ControlFlow\obj\Debug\ControlFlow.exe
-E:\GIT\learnung C#\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\ControlFlow\obj\Debug\ControlFlow.pdb
