@@ -14,14 +14,33 @@ namespace OOP
             //NullibleParticle();
             //Object();
             //Constructor();
-            Constants();
+            //Constants();
+            //Incapsulation();
+            Abstract();
 
         }
 
-        static void Constants()
+        static void Abstract()
         {
-            
+            //Shapes shape = new Shapes;
+            Shapes[] shapes = new Shapes[2];
+            shapes[0] = new Triangle(10, 20, 30);
+            shapes[1] = new Rectangle(5, 10);
+
+            foreach (Shapes shape in shapes)
+            {
+                shape.Draw();
+            }
+
+            Console.ReadLine();
         }
+        static void Incapsulation()
+        {
+            ModelXTerminal terminal = new ModelXTerminal("123");
+            terminal.Connect();
+            Console.ReadLine();
+        }
+
         static void Constructor()
         {
             Charachter c = new Charachter("Elf");
@@ -29,7 +48,8 @@ namespace OOP
         }
         static void Object()
         {
-            int x = 1;
+            int x;
+            x = 1;
             object obj = x;
             Console.WriteLine(obj);
             int y = (int)obj;
@@ -67,7 +87,6 @@ namespace OOP
             int b = 2;
             Swap(ref a, ref b);
             Console.WriteLine($"a = {a} ;  b = {b}");
-            
             Console.ReadLine();
             
             List<int> list = new List<int>();
@@ -87,9 +106,7 @@ namespace OOP
         static void Swap(ref int a, ref int b)
         {
             Console.WriteLine($"original a = {a} ;  b = {b}");
-            int tmp = a; 
-            a = b;
-            b = tmp;
+            (a, b) = (b, a);
             Console.WriteLine($"swapped a = {a} ;  b = {b}");
         }
         static void ServiceContract()

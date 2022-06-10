@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "q+D2nv+DazupMSGu2QMfooJfDg7knxEDQPYntK1I8UNOR7PtnXUkwfBS5eatg+2ezDK7BFRRz/M5Qf1pO0/Xbw==",
+  "dgSpecHash": "j/WFE6JKldlE9K1NJjOsEqxoCJNxG65cjsMP8ozHIsIgslpTNngoSpQ76gm6ZJI9uKPinJbQvIMflkiujWacjA==",
   "success": true,
-  "projectFilePath": "E:\\GIT\\learnung C#\\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\\SCharpCource\\SCharpCource.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "J:\\PROGRAMMING\\WEB\\GIT\\LEARNING\\C#\\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\\SCharpCource\\SCharpCource.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Virtyoz777\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\Virtyoz777\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.2\\microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

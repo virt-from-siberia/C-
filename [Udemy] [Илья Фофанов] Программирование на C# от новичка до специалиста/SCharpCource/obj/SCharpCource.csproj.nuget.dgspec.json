@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GIT\\learnung C#\\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\\SCharpCource\\SCharpCource.csproj": {}
+    "J:\\PROGRAMMING\\WEB\\GIT\\LEARNING\\C#\\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\\SCharpCource\\SCharpCource.csproj": {}
   },
   "projects": {
-    "E:\\GIT\\learnung C#\\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\\SCharpCource\\SCharpCource.csproj": {
+    "J:\\PROGRAMMING\\WEB\\GIT\\LEARNING\\C#\\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\\SCharpCource\\SCharpCource.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GIT\\learnung C#\\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\\SCharpCource\\SCharpCource.csproj",
+        "projectUniqueName": "J:\\PROGRAMMING\\WEB\\GIT\\LEARNING\\C#\\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\\SCharpCource\\SCharpCource.csproj",
         "projectName": "SCharpCource",
-        "projectPath": "E:\\GIT\\learnung C#\\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\\SCharpCource\\SCharpCource.csproj",
-        "packagesPath": "C:\\Users\\aleksey\\.nuget\\packages\\",
-        "outputPath": "E:\\GIT\\learnung C#\\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\\SCharpCource\\obj\\",
+        "projectPath": "J:\\PROGRAMMING\\WEB\\GIT\\LEARNING\\C#\\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\\SCharpCource\\SCharpCource.csproj",
+        "packagesPath": "C:\\Users\\Virtyoz777\\.nuget\\packages\\",
+        "outputPath": "J:\\PROGRAMMING\\WEB\\GIT\\LEARNING\\C#\\[Udemy] [Илья Фофанов] Программирование на C# от новичка до специалиста\\SCharpCource\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\aleksey\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Virtyoz777\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net472"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,7 +37,15 @@
       "frameworks": {
         "net472": {
           "targetAlias": "net472",
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.2, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\Virtyoz777\\.dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
