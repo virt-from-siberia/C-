@@ -18,17 +18,44 @@ namespace OOP
             //InheritanceExample();
             //Abstract();
             //Interfaces();
-            isA();
+            //isA();
+            Stack();
+
         }
 
+        static void Stack()
+        {
+            MyStack ms = new MyStack();
+            ms.Push(1);
+            ms.Push(2);
+            ms.Push(3);
+
+            Console.WriteLine(ms.Count);
+            Console.WriteLine(ms.Pick());
+            
+            ms.Pop();
+            Console.WriteLine(ms.Pick());
+            
+            ms.Push(3);
+            ms.Push(4);
+            ms.Push(5);
+            ms.Push("Omg");
+            ms.Push(true);
+            ms.Push(3.44);
+        }
         static void isA()
         {
-            Rect rect = new Rect{ Height = 0, Width = 5 };
-            int rectArea = AriaCalculator.CalcSquare(rect);
-            Console.WriteLine($"React aria = {rectArea}");
+            // Rect rect = new Rect{ Height = 0, Width = 5 };
+            // int rectArea = AriaCalculator.CalcSquare(rect);
+            // Console.WriteLine($"React aria = {rectArea}");
+            //
+            // Rect square = new Square { Height = 2 , Width = 10 };
+            // AriaCalculator.CalcSquare(square);
+            IShape react = new Rect(){ Height = 2, Width = 5 };
+            IShape square = new Square(){ SideLength = 2 };
 
-            Rect square = new Square { Height = 2 , Width = 10 };
-            AriaCalculator.CalcSquare(square);
+            Console.WriteLine(react.CalcSquare());
+            Console.WriteLine(square.CalcSquare());
         }
         static void Interfaces()
         {

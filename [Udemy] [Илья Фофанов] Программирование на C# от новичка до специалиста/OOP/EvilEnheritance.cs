@@ -1,27 +1,25 @@
 ﻿namespace OOP
 {
-    public class Rect
+    public interface IShape
+    {
+        int CalcSquare();
+    }
+    public class Rect : IShape
     {
         public int Width { get; set; }
         public int Height { get; set; }
-    }
-
-    public class Square : Rect
-    {
-        
-    }
-
-
-    public static class AriaCalculator
-    {
-        public static int CalcSquare(Square square)
+        public int CalcSquare()
         {
-            return square.Height * square.Height;
+            return Width * Height;
         }
+    }
 
-        public static int CalcSquare(Rect rect)
+    public class Square : IShape
+    {
+        public int SideLength { get; set; }
+        public int CalcSquare()
         {
-           return rect.Width = rect.Height;
+            return SideLength * SideLength;
         }
     }
 }
