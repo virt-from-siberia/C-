@@ -29,7 +29,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a490c90-6bd6-4a4f-b541-915b310b788c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../OOP/EvilEnheritance.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/EvilEnheritance.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/bin/Debug/net5.0/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/bin/Debug/net5.0/OOP.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/bin/Debug/net5.0/OOP.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/bin/Debug/net5.0/OOP.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/bin/Debug/net5.0/ref/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/bin/Debug/net5.0/ref/OOP.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/OOP.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/OOP.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/OOP.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/OOP.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/OOP.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/ref/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/ref/OOP.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SCharpCource/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SCharpCource/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,10 +47,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/../Code/CSharpCourseSolution/D_OOP/Interfaces.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/e8/1c7c5da0/ThrowHelper.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0741D33D-D3FC-47C2-A0E8-74E1810361AF/94/Int32.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../Code/CSharpCourseSolution/D_OOP/Shapes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/bb/36c54685/Cer.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/bf/3738e9b8/Number.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/e1/78e39e6a/Console.cs" root0="FORCE_HIGHLIGHTING" />
@@ -58,11 +63,16 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/78/07ee91a7/LayoutKind.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/b8/1d02fd5b/IEnumerable`1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/77/5c2a24fc/Int32.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Code/CSharpCourseSolution/D_OOP/Shapes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/a5/064278fb/Dictionary`2.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0741D33D-D3FC-47C2-A0E8-74E1810361AF/70/Char.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Code/CSharpCourseSolution/D_OOP/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/52/061405b4/Void.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Code/CSharpCourseSolution/D_OOP/MyStack.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Code/CSharpCourseSolution/D_OOP/Interfaces.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0741D33D-D3FC-47C2-A0E8-74E1810361AF/3D/String.CoreCLR.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/c7/c5799d79/ArrayList.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Code/CSharpCourseSolution/D_OOP/Inheritance.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/fa/fbfc3ab2/ICloneable.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/ce/f56ca97e/CultureInfo.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/29A6C194-5F57-4474-95FC-AD42118554C7/2a/a4001fac/Stack`1.cs" root0="SKIP_HIGHLIGHTING" />
@@ -74,18 +84,15 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/9c/f0f5afd8/String.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/58/4b9704ec/TimeSpan.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0741D33D-D3FC-47C2-A0E8-74E1810361AF/b8/1f1d8f45/Void.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Code/CSharpCourseSolution/D_OOP/Calculator.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/88/30760af5/Environment.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/55/777c1b38/IEnumerator`1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0741D33D-D3FC-47C2-A0E8-74E1810361AF/32/Math.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/89/fc75c5f9/ConsoleSpecialKey.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../Code/CSharpCourseSolution/D_OOP/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/obj/Debug/net472/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/74/99c494a0/Object.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48827A05-C015-4B4B-ADA3-2EAF5C10D8B0/65/f8fa785f/Array.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../Code/CSharpCourseSolution/D_OOP/Inheritance.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/0741D33D-D3FC-47C2-A0E8-74E1810361AF/fe/0d6fea87/02000156pdb.il" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../Code/CSharpCourseSolution/D_OOP/MyStack.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../Code/CSharpCourseSolution/D_OOP/Calculator.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0741D33D-D3FC-47C2-A0E8-74E1810361AF/bf/c1feb1bd/IFormatProvider.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -271,7 +278,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="25faee5c-4045-4775-b10f-fef12f49bc8b" name="Default Changelist" comment="" />
+      <changelist id="2a490c90-6bd6-4a4f-b541-915b310b788c" name="Default Changelist" comment="" />
       <created>1652426936662</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -297,6 +304,8 @@
       <workItem from="1654401888272" duration="3618000" />
       <workItem from="1654437287261" duration="5000" />
       <workItem from="1654437319259" duration="2056000" />
+      <workItem from="1654938439142" duration="850000" />
+      <workItem from="1655182098502" duration="438000" />
     </task>
     <servers />
   </component>
@@ -321,10 +330,10 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="825" y="242" key="FileChooserDialogImpl" timestamp="1654402286172">
+    <state x="825" y="242" key="FileChooserDialogImpl" timestamp="1655182130569">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="825" y="242" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1654402286172" />
+    <state x="825" y="242" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1655182130569" />
     <state width="784" height="892" key="GridCell.Tab.0.bottom" timestamp="1654360810125">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -413,10 +422,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="794" y="153" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1654402243511" />
-    <state x="153" y="142" width="918" height="857" key="SettingsEditor" timestamp="1654437822254">
+    <state x="21" y="113" width="1365" height="857" key="SettingsEditor" timestamp="1655182233433">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="153" y="142" width="918" height="857" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1654437822254" />
+    <state x="21" y="113" width="1365" height="857" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1655182233433" />
     <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog" timestamp="1652442520037">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

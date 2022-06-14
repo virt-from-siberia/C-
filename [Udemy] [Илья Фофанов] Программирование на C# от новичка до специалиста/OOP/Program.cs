@@ -27,7 +27,8 @@ namespace OOP
             int rectArea = AriaCalculator.CalcSquare(rect);
             Console.WriteLine($"React aria = {rectArea}");
 
-            Rect square = new Square { Height = 2 };
+            Rect square = new Square { Height = 2 , Width = 10 };
+            AriaCalculator.CalcSquare(square);
         }
         static void Interfaces()
         {
