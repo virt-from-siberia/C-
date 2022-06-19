@@ -29,26 +29,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a490c90-6bd6-4a4f-b541-915b310b788c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../OOP/EvilEnheritance.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/EvilEnheritance.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP/bin/Debug/net5.0/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/bin/Debug/net5.0/OOP.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP/bin/Debug/net5.0/OOP.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/bin/Debug/net5.0/OOP.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP/bin/Debug/net5.0/ref/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/bin/Debug/net5.0/ref/OOP.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/OOP.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/OOP.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/OOP.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/OOP.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/OOP.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/ref/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/ref/OOP.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP/obj/OOP.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/obj/OOP.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SCharpCource/.idea/contentModel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SCharpCource/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SCharpCource/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SCharpCource/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SCharpCource/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SCharpCource/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SCharpCource/riderModule.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/SCharpCource.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/obj/SCharpCource.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TICKET.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TICKET.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -290,7 +271,7 @@
       <workItem from="1655193199087" duration="1603000" />
       <workItem from="1655201672064" duration="324000" />
       <workItem from="1655202620279" duration="1000" />
-      <workItem from="1655202645939" duration="2970000" />
+      <workItem from="1655202645939" duration="5571000" />
     </task>
     <servers />
   </component>
