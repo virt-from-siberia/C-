@@ -1,5 +1,8 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
+using System.IO;
+using System.Text;
 using Microsoft.VisualBasic;
 
 namespace OOP
@@ -19,30 +22,144 @@ namespace OOP
             //Abstract();
             //Interfaces();
             //isA();
-            Stack();
+            //Stack();
+            //forEach();
+            //Exeptions();
+            //Files();
+            Folders();
+        }
 
+        static void Folders()
+        {
+            
+        }
+        static void Files()
+        {
+            string[] allLines = File.ReadAllLines("test.txt");
+
+            IEnumerable<string> lines = File.ReadLines("test.txt");
+            File.WriteAllText("test_2.txt", "My Name is Alex");
+            File.WriteAllLines("test_2.txt", new string[] {"My name", "is Ivan"});
+            File.WriteAllBytes("test_3.txt", new byte[] {72, 101, 108, 111, 205});
+
+            Console.WriteLine(allLines);
+
+            string allText = File.ReadAllText("test_2.txt");
+            Console.WriteLine(allText);
+
+            byte[] bytes = File.ReadAllBytes("test_3.txt");
+            Console.WriteLine(bytes);
+            Console.WriteLine(Encoding.ASCII.GetString(bytes));
+            
+            Console.ReadLine();
+            Stream fs = new FileStream("test.txt", FileMode.OpenOrCreate, FileAccess.Write);
+
+            try
+            {
+                string str = "Hello World";
+                byte[] strInBytes = Encoding.ASCII.GetBytes(str);
+                fs.Write(strInBytes, 0, strInBytes.Length);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine($"Error {e}");
+            }
+            finally
+            {
+                fs.Close();
+            }
+
+            Console.WriteLine("Now reading");
+
+            using (Stream readingStream = new FileStream("test.txt", FileMode.Open, FileAccess.Read))
+            {
+                byte[] temp = new byte[readingStream.Length];
+                int bytesToRead = (int) readingStream.Length;
+                int bytesRead = 0;
+
+                while (bytesToRead > 0)
+                {
+                    int n = readingStream.Read(temp, bytesRead, bytesToRead);
+
+                    if (n == 0)
+                        break;
+
+                    bytesRead += n;
+                    bytesToRead -= n;
+                }
+
+                string str = Encoding.ASCII.GetString(temp, 0, temp.Length);
+                Console.WriteLine(str);
+
+                Console.ReadLine();
+            }
+        }
+
+        static void Exeptions()
+        {
+            FileStream file = null;
+            try
+            {
+                file = File.Open("temp.txt", FileMode.Open);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+            }
+            finally
+            {
+                if (file != null)
+                    file.Dispose();
+            }
+
+            Console.WriteLine("Please enter a number");
+            string result = Console.ReadLine();
+
+            int number = 0;
+            try
+            {
+                number = int.Parse(result);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("Format exeption has occured");
+                Console.WriteLine(e.ToString());
+            }
+
+            Console.WriteLine(number);
+        }
+
+        static void forEach()
+        {
+            var ms = new MyStack<int>();
+            ms.Push(1);
+            ms.Push(2);
+            ms.Push(3);
+
+            foreach (var item in ms)
+            {
+                Console.WriteLine(item);
+            }
         }
 
         static void Stack()
         {
-            MyStack ms = new MyStack();
+            var ms = new MyStack<int>();
             ms.Push(1);
             ms.Push(2);
             ms.Push(3);
 
             Console.WriteLine(ms.Count);
             Console.WriteLine(ms.Pick());
-            
+
             ms.Pop();
             Console.WriteLine(ms.Pick());
-            
+
             ms.Push(3);
             ms.Push(4);
             ms.Push(5);
-            ms.Push("Omg");
-            ms.Push(true);
-            ms.Push(3.44);
         }
+
         static void isA()
         {
             // Rect rect = new Rect{ Height = 0, Width = 5 };
@@ -51,20 +168,22 @@ namespace OOP
             //
             // Rect square = new Square { Height = 2 , Width = 10 };
             // AriaCalculator.CalcSquare(square);
-            IShape react = new Rect(){ Height = 2, Width = 5 };
-            IShape square = new Square(){ SideLength = 2 };
+            IShape react = new Rect() {Height = 2, Width = 5};
+            IShape square = new Square() {SideLength = 2};
 
             Console.WriteLine(react.CalcSquare());
             Console.WriteLine(square.CalcSquare());
         }
+
         static void Interfaces()
         {
-            List<object> list = new List<object>(){1,2,3};
+            List<object> list = new List<object>() {1, 2, 3};
             IBaseCollection collection = new BaseList(4);
             collection.Add(list);
             collection.Add(1);
         }
-        static void Abstract() 
+
+        static void Abstract()
         {
             Shape[] shapes = new Shape[2];
             shapes[0] = new Triangle(10, 20, 30);
@@ -76,36 +195,32 @@ namespace OOP
                 Console.WriteLine(shape.Perimeter());
             }
         }
+
         static void InheritanceExample()
         {
             ModelXTerminal terminalX = new ModelXTerminal("123");
             terminalX.Connect();
             Console.ReadLine();
         }
-        static void DoSomething()
-        {
-            
-        }
-        static void Constants()
-        {
-            
-        }
+
         static void Constructor()
         {
             Charachter c = new Charachter("Elf");
             Console.WriteLine(c.Race);
         }
+
         static void Object()
         {
             int x = 1;
             object obj = x;
             Console.WriteLine(obj);
-            int y = (int)obj;
+            int y = (int) obj;
 
             double pi = 3.14;
             object obj1 = pi;
-            int number = (int)(double)obj1;
-        } 
+            int number = (int) (double) obj1;
+        }
+
         static void DoSomething(object obj)
         {
             bool isPointRef = obj is PointRef;
@@ -118,26 +233,26 @@ namespace OOP
             PointRef pr1 = obj as PointRef;
             if (pr1 != null)
             {
-                Console.WriteLine(pr1.x); 
+                Console.WriteLine(pr1.x);
             }
-
         }
+
         static void NullibleParticle()
         {
-
             PointVal? pv = null;
             PointRef c = new PointRef();
             Console.WriteLine(c.x);
         }
+
         static void Arguments()
         {
             int a = 1;
             int b = 2;
             Swap(ref a, ref b);
             Console.WriteLine($"a = {a} ;  b = {b}");
-            
+
             Console.ReadLine();
-            
+
             List<int> list = new List<int>();
             AddNumbers(list);
 
@@ -146,20 +261,23 @@ namespace OOP
                 Console.WriteLine(item);
             }
         }
+
         static void AddNumbers(List<int> numbers)
         {
             numbers.Add(1);
             numbers.Add(2);
             numbers.Add(3);
         }
+
         static void Swap(ref int a, ref int b)
         {
             Console.WriteLine($"original a = {a} ;  b = {b}");
-            int tmp = a; 
+            int tmp = a;
             a = b;
             b = tmp;
             Console.WriteLine($"swapped a = {a} ;  b = {b}");
         }
+
         static void ServiceContract()
         {
             PointVal a;
@@ -169,7 +287,7 @@ namespace OOP
             PointVal b = a;
             b.x = 10;
             b.y = 10;
-            
+
             a.LogValues();
             b.LogValues();
             a.LogValues();
@@ -180,19 +298,19 @@ namespace OOP
             PointRef d = c;
             d.x = 10;
             d.y = 10;
-            
+
             c.LogValues();
             d.LogValues();
-
         }
+
         static void FirstParticle()
         {
             Charachter c = new Charachter("Lol");
             Charachter c1 = new Charachter("Lol");
-            Charachter c2= new Charachter("Lol");
+            Charachter c2 = new Charachter("Lol");
             c.Hit(120);
             Console.WriteLine(c.Health);
-            
+
             Calculator calculator = new Calculator();
             double sque1 = calculator.CalcTriangleSquare(10, 20);
             double sque2 = calculator.CalcTriangleSquare(10, 20, 30);
@@ -203,11 +321,11 @@ namespace OOP
             Console.WriteLine($"square 3 = {sque2}");
 
             Console.WriteLine(RomanNumeral.Parse("XIV"));
-            double avg = calculator.Average2(1,2,3,4);
+            double avg = calculator.Average2(1, 2, 3, 4);
 
             Console.WriteLine("Enter a number");
             string line = Console.ReadLine();
-            
+
             bool wasParsed = int.TryParse(line, out int number);
             if (wasParsed)
                 Console.WriteLine(number);
@@ -215,7 +333,7 @@ namespace OOP
                 Console.WriteLine("Failed to parse");
 
 
-            if ( calculator.TryDivide(0 , 2, out double result))
+            if (calculator.TryDivide(0, 2, out double result))
             {
                 Console.WriteLine(result);
             }
@@ -223,12 +341,13 @@ namespace OOP
             {
                 Console.WriteLine("Failed to divide");
             }
+
             Console.ReadLine();
-            
+
             c1.IncreaceSpeed();
 
             Console.WriteLine($"c1.Speed = {c1.PrintSpeed()}");
             Console.WriteLine($"c2.Speed = {c2.PrintSpeed()}");
         }
     }
-} 
+}
