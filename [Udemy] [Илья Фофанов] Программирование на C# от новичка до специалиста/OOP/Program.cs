@@ -26,13 +26,57 @@ namespace OOP
             //forEach();
             //Exeptions();
             //Files();
-            Folders();
+            //Folders();
+            //DZ_01();
+            DZ_02();
+        }
+
+        static void DZ_02()
+        {
+            GuessNumberGame game = new GuessNumberGame(guessingPlayer: GuessingPlayer.Human);
+            game.Start();
+        }
+
+        static void DZ_01()
+        {
+            Complex c1 = new Complex(1, 1);
+            Complex c2 = new Complex(1, 2);
+
+            Complex result = c1.Plus(c2);
+            Console.WriteLine(result.Imagenary);
+            Console.WriteLine(result.Real);
         }
 
         static void Folders()
         {
-            
+            try
+            {
+                File.Copy("test.txt", "test_copy.txt", overwrite: true);
+                if (File.Exists("test_copy_renamed.txt"))
+                    File.Delete("test_copy_renamed.txt");
+                if (File.Exists("test_copy.txt"))
+                    File.Move("test_copy.txt", "test_copy_renamed.txt");
+
+                bool existsDir = Directory.Exists(@"C:\Activators");
+                Console.WriteLine(existsDir);
+
+                if (existsDir)
+                {
+                    IEnumerable<string> files =
+                        Directory.EnumerateFiles(@"C:\Activators", "*.jpg", SearchOption.AllDirectories);
+                    foreach (var file in files)
+                    {
+                        Console.WriteLine(file);
+                    }
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+                throw;
+            }
         }
+
         static void Files()
         {
             string[] allLines = File.ReadAllLines("test.txt");
@@ -50,7 +94,7 @@ namespace OOP
             byte[] bytes = File.ReadAllBytes("test_3.txt");
             Console.WriteLine(bytes);
             Console.WriteLine(Encoding.ASCII.GetString(bytes));
-            
+
             Console.ReadLine();
             Stream fs = new FileStream("test.txt", FileMode.OpenOrCreate, FileAccess.Write);
 

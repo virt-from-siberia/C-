@@ -29,12 +29,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a490c90-6bd6-4a4f-b541-915b310b788c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../OOP/Charachter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/Charachter.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP/MyStack.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/MyStack.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OOP/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OOP/bin/Debug/net5.0/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/bin/Debug/net5.0/OOP.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OOP/bin/Debug/net5.0/OOP.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/bin/Debug/net5.0/OOP.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OOP/bin/Debug/net5.0/ref/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/bin/Debug/net5.0/ref/OOP.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/OOP.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/OOP.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/OOP.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/OOP.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/OOP.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/ref/OOP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/obj/Debug/net5.0/ref/OOP.dll" afterDir="false" />
@@ -50,20 +49,25 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0741d33dd3fc47c2a0e874e1810361af8f5790/3D/String.CoreCLR.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0741d33dd3fc47c2a0e874e1810361af8f5790/63/ArgumentNullException.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0741d33dd3fc47c2a0e874e1810361af8f5790/1F2/Encoding.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0741d33dd3fc47c2a0e874e1810361af8f5790/38B/Stream.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../Code/CSharpCourseSolution/D_OOP/Calculator.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../Code/CSharpCourseSolution/D_OOP/Shapes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0741d33dd3fc47c2a0e874e1810361af8f5790/2F0/TypeForwardedFromAttribute.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0741d33dd3fc47c2a0e874e1810361af8f5790/0/IEnumerator.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/b3e102bdaa8443c38cb44816efc41c4725578/4/Console.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../Code/CSharpCourseSolution/D_OOP/Interfaces.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0741d33dd3fc47c2a0e874e1810361af8f5790/0/IEnumerable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0741d33dd3fc47c2a0e874e1810361af8f5790/94/Int32.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0741d33dd3fc47c2a0e874e1810361af8f5790/98/InvalidOperationException.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/84efbb43968347b884caa303563014fd35b78/65/1ef79a5b/SearchOption.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0741d33dd3fc47c2a0e874e1810361af8f5790/C9/Random.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0741d33dd3fc47c2a0e874e1810361af8f5790/3D/String.CoreCLR.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0741d33dd3fc47c2a0e874e1810361af8f5790/a2/48ea2c85/IFormatProvider.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0741d33dd3fc47c2a0e874e1810361af8f5790/1F2/Encoding.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Code/CSharpCourseSolution/D_OOP/Calculator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Code/CSharpCourseSolution/D_OOP/Shapes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0741d33dd3fc47c2a0e874e1810361af8f5790/B0/NotImplementedException.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Code/CSharpCourseSolution/D_OOP/Interfaces.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0741d33dd3fc47c2a0e874e1810361af8f5790/41/5cb14f21/FileAccess.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0741d33dd3fc47c2a0e874e1810361af8f5790/0d/a4894a40/Void.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0741d33dd3fc47c2a0e874e1810361af8f5790/98/InvalidOperationException.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0741d33dd3fc47c2a0e874e1810361af8f5790/6C/Boolean.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Code/CSharpCourseSolution/D_OOP/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Code/CSharpCourseSolution/D_OOP/MyStack.cs" root0="SKIP_HIGHLIGHTING" />
@@ -297,7 +301,8 @@
       <workItem from="1655202620279" duration="1000" />
       <workItem from="1655202645939" duration="5571000" />
       <workItem from="1655831722321" duration="17101000" />
-      <workItem from="1656314176251" duration="5681000" />
+      <workItem from="1656314176251" duration="8386000" />
+      <workItem from="1656738569211" duration="3542000" />
     </task>
     <servers />
   </component>
