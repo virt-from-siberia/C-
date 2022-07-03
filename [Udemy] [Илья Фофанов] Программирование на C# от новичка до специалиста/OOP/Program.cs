@@ -28,7 +28,46 @@ namespace OOP
             //Files();
             //Folders();
             //DZ_01();
-            DZ_02();
+            //DZ_02();
+            //DZ_03();
+            DZ_04();
+        }
+
+        static void DZ_04()
+        {
+            HandmanGame game = new HandmanGame();
+            string word = game.GenerateWord();
+
+            Console.WriteLine($"The word consists of {word.Length} letters.");
+            Console.WriteLine("Try to guess the word");
+
+            while (game.GameStatus == GameStatus.InProgress)
+            {
+                Console.WriteLine("Pick a letter");
+
+                char c = Console.ReadLine().ToCharArray()[0];
+                string currState = game.GuessLetter(c);
+
+                Console.WriteLine(currState);
+                Console.WriteLine($"Remaning tries = {game.RemaningTries}");
+                Console.WriteLine($"Tried letters : {game.TriesLetters}");
+            }
+
+            if (game.GameStatus == GameStatus.Lost)
+            {
+                Console.WriteLine("You are lost");
+                Console.WriteLine($"The word was: {game.Word}");
+            }
+            else if (game.GameStatus == GameStatus.Won)
+            {
+                Console.WriteLine("You won");
+            }
+        }
+
+
+        static string GetPrintableChar()
+        {
+            return "";
         }
 
         static void DZ_02()
