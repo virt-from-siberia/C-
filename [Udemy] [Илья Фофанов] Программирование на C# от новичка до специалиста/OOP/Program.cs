@@ -3,7 +3,9 @@ using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
+using System.Timers;
 using Microsoft.VisualBasic;
+using OOP.Sticks;
 
 namespace OOP
 {
@@ -30,7 +32,91 @@ namespace OOP
             //DZ_01();
             //DZ_02();
             //DZ_03();
-            DZ_04();
+            //DZ_04();
+            //Delegats();
+            //Game();
+            LONQ();
+        }
+
+        static void LONQ()
+        {
+        }
+
+        static void Game()
+        {
+            var game = new SticksGame(10, Player.Human);
+            game.MachinePlayed += Game_MahinePlayed;
+            game.HumanTurnToMakeMove += Game_HumanTurnToMakeMove;
+            game.EndOfGame += Game_EndOfGame;
+            game.Start();
+        }
+
+        private static void Game_EndOfGame(Player player)
+        {
+            Console.WriteLine($"Winner {player} ");
+        }
+
+        private static void Game_HumanTurnToMakeMove(object sender, int remaningSticks)
+        {
+            Console.WriteLine($"Remaining sticks : {remaningSticks}");
+            Console.WriteLine("Take  some sticks");
+
+            bool takenCorrectly = false;
+            while (!takenCorrectly)
+            {
+                if (int.TryParse(Console.ReadLine(), out int takenSticks))
+                {
+                    var game = (SticksGame) sender;
+
+                    try
+                    {
+                        game.HumanTakes(takenSticks);
+                        takenCorrectly = true;
+                    }
+                    catch (ArgumentException ex)
+                    {
+                        Console.WriteLine(ex.Message);
+                    }
+                }
+            }
+        }
+
+        private static void Game_MahinePlayed(int sticksTaken)
+        {
+            Console.WriteLine($"Machine took : {sticksTaken}");
+        }
+
+        static void Delegats()
+        {
+            Timer timer = new Timer();
+            timer.Elapsed += Timer_Elapsed;
+
+            Console.ReadLine();
+
+            Car car = new Car();
+            car.TooFastDriving += handleOnTooFast;
+            car.TooFastDriving += handleOnTooFast;
+            car.TooFastDriving -= handleOnTooFast;
+
+            car.Start();
+
+            for (int i = 0; i < 10; i++)
+            {
+                car.Accelerate();
+            }
+        }
+
+        private static void Timer_Elapsed(object sender, ElapsedEventArgs e)
+        {
+            //var timer = (Timer) sender;
+            Console.WriteLine("elapsed");
+        }
+
+        private static void handleOnTooFast(object obj, int speed)
+        {
+            var car = (Car) obj;
+            Console.WriteLine($"Oh you are very fast! Current speed {speed}");
+            car.Stop();
         }
 
         static void DZ_04()
