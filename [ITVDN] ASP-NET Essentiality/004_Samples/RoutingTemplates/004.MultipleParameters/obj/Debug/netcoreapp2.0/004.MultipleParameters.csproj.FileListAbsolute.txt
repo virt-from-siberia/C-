@@ -1,0 +1,11 @@
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\004_Routing\004_Samples\RoutingTemplates\004.MultipleParameters\bin\Debug\netcoreapp2.0\004.MultipleParameters.deps.json
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\004_Routing\004_Samples\RoutingTemplates\004.MultipleParameters\bin\Debug\netcoreapp2.0\004.MultipleParameters.runtimeconfig.json
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\004_Routing\004_Samples\RoutingTemplates\004.MultipleParameters\bin\Debug\netcoreapp2.0\004.MultipleParameters.runtimeconfig.dev.json
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\004_Routing\004_Samples\RoutingTemplates\004.MultipleParameters\bin\Debug\netcoreapp2.0\004.MultipleParameters.dll
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\004_Routing\004_Samples\RoutingTemplates\004.MultipleParameters\bin\Debug\netcoreapp2.0\004.MultipleParameters.pdb
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\004_Routing\004_Samples\RoutingTemplates\004.MultipleParameters\obj\Debug\netcoreapp2.0\004.MultipleParameters.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\004_Routing\004_Samples\RoutingTemplates\004.MultipleParameters\obj\Debug\netcoreapp2.0\004.MultipleParameters.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\004_Routing\004_Samples\RoutingTemplates\004.MultipleParameters\obj\Debug\netcoreapp2.0\004.MultipleParameters.AssemblyInfoInputs.cache
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\004_Routing\004_Samples\RoutingTemplates\004.MultipleParameters\obj\Debug\netcoreapp2.0\004.MultipleParameters.AssemblyInfo.cs
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\004_Routing\004_Samples\RoutingTemplates\004.MultipleParameters\obj\Debug\netcoreapp2.0\004.MultipleParameters.dll
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\004_Routing\004_Samples\RoutingTemplates\004.MultipleParameters\obj\Debug\netcoreapp2.0\004.MultipleParameters.pdb

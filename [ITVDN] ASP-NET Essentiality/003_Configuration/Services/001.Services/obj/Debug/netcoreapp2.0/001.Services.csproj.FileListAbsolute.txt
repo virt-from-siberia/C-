@@ -1,0 +1,11 @@
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\003_Configuration\003_Samples\Services\001.Services\bin\Debug\netcoreapp2.0\001.Services.deps.json
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\003_Configuration\003_Samples\Services\001.Services\bin\Debug\netcoreapp2.0\001.Services.runtimeconfig.json
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\003_Configuration\003_Samples\Services\001.Services\bin\Debug\netcoreapp2.0\001.Services.runtimeconfig.dev.json
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\003_Configuration\003_Samples\Services\001.Services\bin\Debug\netcoreapp2.0\001.Services.dll
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\003_Configuration\003_Samples\Services\001.Services\bin\Debug\netcoreapp2.0\001.Services.pdb
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\003_Configuration\003_Samples\Services\001.Services\obj\Debug\netcoreapp2.0\001.Services.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\003_Configuration\003_Samples\Services\001.Services\obj\Debug\netcoreapp2.0\001.Services.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\003_Configuration\003_Samples\Services\001.Services\obj\Debug\netcoreapp2.0\001.Services.AssemblyInfoInputs.cache
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\003_Configuration\003_Samples\Services\001.Services\obj\Debug\netcoreapp2.0\001.Services.AssemblyInfo.cs
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\003_Configuration\003_Samples\Services\001.Services\obj\Debug\netcoreapp2.0\001.Services.dll
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\003_Configuration\003_Samples\Services\001.Services\obj\Debug\netcoreapp2.0\001.Services.pdb

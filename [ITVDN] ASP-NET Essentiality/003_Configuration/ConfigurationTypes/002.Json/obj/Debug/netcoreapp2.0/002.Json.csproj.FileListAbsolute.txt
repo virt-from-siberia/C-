@@ -1,0 +1,11 @@
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\003_Configuration\003_Samples\ConfigurationTypes\002.Json\bin\Debug\netcoreapp2.0\002.Json.deps.json
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\003_Configuration\003_Samples\ConfigurationTypes\002.Json\bin\Debug\netcoreapp2.0\002.Json.runtimeconfig.json
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\003_Configuration\003_Samples\ConfigurationTypes\002.Json\bin\Debug\netcoreapp2.0\002.Json.runtimeconfig.dev.json
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\003_Configuration\003_Samples\ConfigurationTypes\002.Json\bin\Debug\netcoreapp2.0\002.Json.dll
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\003_Configuration\003_Samples\ConfigurationTypes\002.Json\bin\Debug\netcoreapp2.0\002.Json.pdb
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\003_Configuration\003_Samples\ConfigurationTypes\002.Json\obj\Debug\netcoreapp2.0\002.Json.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\003_Configuration\003_Samples\ConfigurationTypes\002.Json\obj\Debug\netcoreapp2.0\002.Json.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\003_Configuration\003_Samples\ConfigurationTypes\002.Json\obj\Debug\netcoreapp2.0\002.Json.AssemblyInfoInputs.cache
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\003_Configuration\003_Samples\ConfigurationTypes\002.Json\obj\Debug\netcoreapp2.0\002.Json.AssemblyInfo.cs
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\003_Configuration\003_Samples\ConfigurationTypes\002.Json\obj\Debug\netcoreapp2.0\002.Json.dll
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\003_Configuration\003_Samples\ConfigurationTypes\002.Json\obj\Debug\netcoreapp2.0\002.Json.pdb

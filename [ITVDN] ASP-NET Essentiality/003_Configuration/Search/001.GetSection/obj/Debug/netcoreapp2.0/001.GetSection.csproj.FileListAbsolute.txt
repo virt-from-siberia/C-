@@ -1,0 +1,11 @@
+c:\users\евгений\documents\visual studio 2017\Projects\Search\001.GetSection\bin\Debug\netcoreapp2.0\001.GetSection.deps.json
+c:\users\евгений\documents\visual studio 2017\Projects\Search\001.GetSection\bin\Debug\netcoreapp2.0\001.GetSection.runtimeconfig.json
+c:\users\евгений\documents\visual studio 2017\Projects\Search\001.GetSection\bin\Debug\netcoreapp2.0\001.GetSection.runtimeconfig.dev.json
+c:\users\евгений\documents\visual studio 2017\Projects\Search\001.GetSection\bin\Debug\netcoreapp2.0\001.GetSection.dll
+c:\users\евгений\documents\visual studio 2017\Projects\Search\001.GetSection\bin\Debug\netcoreapp2.0\001.GetSection.pdb
+c:\users\евгений\documents\visual studio 2017\Projects\Search\001.GetSection\obj\Debug\netcoreapp2.0\001.GetSection.csprojResolveAssemblyReference.cache
+c:\users\евгений\documents\visual studio 2017\Projects\Search\001.GetSection\obj\Debug\netcoreapp2.0\001.GetSection.csproj.CoreCompileInputs.cache
+c:\users\евгений\documents\visual studio 2017\Projects\Search\001.GetSection\obj\Debug\netcoreapp2.0\001.GetSection.AssemblyInfoInputs.cache
+c:\users\евгений\documents\visual studio 2017\Projects\Search\001.GetSection\obj\Debug\netcoreapp2.0\001.GetSection.AssemblyInfo.cs
+c:\users\евгений\documents\visual studio 2017\Projects\Search\001.GetSection\obj\Debug\netcoreapp2.0\001.GetSection.dll
+c:\users\евгений\documents\visual studio 2017\Projects\Search\001.GetSection\obj\Debug\netcoreapp2.0\001.GetSection.pdb

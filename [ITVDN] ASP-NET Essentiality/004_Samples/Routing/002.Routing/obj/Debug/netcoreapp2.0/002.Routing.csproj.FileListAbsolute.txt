@@ -1,0 +1,10 @@
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\004_Routing\004_Samples\Routing\002.Routing\bin\Debug\netcoreapp2.0\002.Routing.deps.json
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\004_Routing\004_Samples\Routing\002.Routing\bin\Debug\netcoreapp2.0\002.Routing.runtimeconfig.json
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\004_Routing\004_Samples\Routing\002.Routing\bin\Debug\netcoreapp2.0\002.Routing.runtimeconfig.dev.json
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\004_Routing\004_Samples\Routing\002.Routing\bin\Debug\netcoreapp2.0\002.Routing.dll
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\004_Routing\004_Samples\Routing\002.Routing\bin\Debug\netcoreapp2.0\002.Routing.pdb
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\004_Routing\004_Samples\Routing\002.Routing\obj\Debug\netcoreapp2.0\002.Routing.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\004_Routing\004_Samples\Routing\002.Routing\obj\Debug\netcoreapp2.0\002.Routing.AssemblyInfoInputs.cache
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\004_Routing\004_Samples\Routing\002.Routing\obj\Debug\netcoreapp2.0\002.Routing.AssemblyInfo.cs
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\004_Routing\004_Samples\Routing\002.Routing\obj\Debug\netcoreapp2.0\002.Routing.dll
+C:\Users\Евгений\Documents\ITVDN\ASP.NET Core Essential\004_Routing\004_Samples\Routing\002.Routing\obj\Debug\netcoreapp2.0\002.Routing.pdb

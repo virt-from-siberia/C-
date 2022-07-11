@@ -1,0 +1,10 @@
+c:\users\евгений\documents\visual studio 2017\Projects\Search\002.GetChildren\bin\Debug\netcoreapp2.0\002.GetChildren.deps.json
+c:\users\евгений\documents\visual studio 2017\Projects\Search\002.GetChildren\bin\Debug\netcoreapp2.0\002.GetChildren.runtimeconfig.json
+c:\users\евгений\documents\visual studio 2017\Projects\Search\002.GetChildren\bin\Debug\netcoreapp2.0\002.GetChildren.runtimeconfig.dev.json
+c:\users\евгений\documents\visual studio 2017\Projects\Search\002.GetChildren\bin\Debug\netcoreapp2.0\002.GetChildren.dll
+c:\users\евгений\documents\visual studio 2017\Projects\Search\002.GetChildren\bin\Debug\netcoreapp2.0\002.GetChildren.pdb
+c:\users\евгений\documents\visual studio 2017\Projects\Search\002.GetChildren\obj\Debug\netcoreapp2.0\002.GetChildren.csproj.CoreCompileInputs.cache
+c:\users\евгений\documents\visual studio 2017\Projects\Search\002.GetChildren\obj\Debug\netcoreapp2.0\002.GetChildren.AssemblyInfoInputs.cache
+c:\users\евгений\documents\visual studio 2017\Projects\Search\002.GetChildren\obj\Debug\netcoreapp2.0\002.GetChildren.AssemblyInfo.cs
+c:\users\евгений\documents\visual studio 2017\Projects\Search\002.GetChildren\obj\Debug\netcoreapp2.0\002.GetChildren.dll
+c:\users\евгений\documents\visual studio 2017\Projects\Search\002.GetChildren\obj\Debug\netcoreapp2.0\002.GetChildren.pdb
