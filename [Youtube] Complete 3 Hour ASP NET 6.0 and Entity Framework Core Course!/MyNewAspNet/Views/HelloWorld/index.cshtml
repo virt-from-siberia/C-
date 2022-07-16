@@ -1,0 +1,25 @@
+﻿@model List<MyNewAspNet.Models.DogViewModel>
+
+
+<html>
+<head>
+    <title>title</title>
+</head>
+<body>
+<div>
+    <div class="text-center">
+
+        <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+        <ul>
+            @foreach (var dog in Model)
+            {
+                <li>
+                    @dog.Name (@dog.Age)
+                </li>
+            }
+        </ul>
+    </div>
+</div>
+</body>
+</html>
